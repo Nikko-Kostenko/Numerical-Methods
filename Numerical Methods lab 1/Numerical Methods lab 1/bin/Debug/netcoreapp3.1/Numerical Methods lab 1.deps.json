@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Numerical Methods lab 1/1.0.0": {
+        "runtime": {
+          "Numerical Methods lab 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numerical Methods lab 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

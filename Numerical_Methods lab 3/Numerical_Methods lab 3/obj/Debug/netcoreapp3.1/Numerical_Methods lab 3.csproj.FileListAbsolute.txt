@@ -1,0 +1,13 @@
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\bin\Debug\netcoreapp3.1\Numerical_Methods lab 3.exe
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\bin\Debug\netcoreapp3.1\Numerical_Methods lab 3.deps.json
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\bin\Debug\netcoreapp3.1\Numerical_Methods lab 3.runtimeconfig.json
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\bin\Debug\netcoreapp3.1\Numerical_Methods lab 3.runtimeconfig.dev.json
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\bin\Debug\netcoreapp3.1\Numerical_Methods lab 3.dll
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\bin\Debug\netcoreapp3.1\Numerical_Methods lab 3.pdb
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.csprojAssemblyReference.cache
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.AssemblyInfoInputs.cache
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.AssemblyInfo.cs
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.csproj.CoreCompileInputs.cache
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.dll
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.pdb
+C:\Users\f18ra\source\repos\Numerical_Methods lab 3\Numerical_Methods lab 3\obj\Debug\netcoreapp3.1\Numerical_Methods lab 3.genruntimeconfig.cache

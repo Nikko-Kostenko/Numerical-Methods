@@ -1,0 +1,15 @@
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.csprojAssemblyReference.cache
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.AssemblyInfoInputs.cache
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.AssemblyInfo.cs
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\Numerical Methods lab2.exe
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\Numerical Methods lab2.deps.json
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\Numerical Methods lab2.runtimeconfig.json
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\Numerical Methods lab2.runtimeconfig.dev.json
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\Numerical Methods lab2.dll
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\Numerical Methods lab2.pdb
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.dll
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.pdb
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.genruntimeconfig.cache
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.csproj.CoreCompileInputs.cache
+C:\Users\f18ra\source\repos\Numerical Methods lab2\Numerical Methods lab2\obj\Debug\netcoreapp3.1\Numerical Methods lab2.csproj.CopyComplete

@@ -15,3 +15,6 @@ Nuton method for nonlinear system
 
 Lab 4:
 Building an interpolation nuton polinom for solving nonlinear equation
+
+
+You can find tasks in a word file.
